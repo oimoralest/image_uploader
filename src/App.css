@@ -1,0 +1,16 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Poppins;
+}
+
+.body-container {
+    width: auto;
+    height: 98vh;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="/">
       Demo
     </a>
     <span> | </span>
@@ -25,27 +25,30 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](./images/demo.gif)
 
 Image uploader is a project presented as a solution to the challenge [image uploader](https://devchallenges.io/challenges/O2iGT9yBd6xZBrOcVirx)
 
 ### Built With
 
-- [React](https://reactjs.org/) -> Frontend
-- [FastApi](https://fastapi.tiangolo.com/) -> Backend
+- [React](https://reactjs.org/)
 
 ## How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) and [python3.10](https://www.python.org/downloads/release/python-3100/) installed on your computer. From your command line:
+To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/your-user-name/your-project-name
+$ git clone https://github.com/oimoralest/image_uploader.git
 
-# TODO
+# install the dependencies
+$ npm install
+
+# run the app
+$ npm run dev
 ```
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
+- LinkedIn [/in/oimoralest](https://www.linkedin.com/in/oimoralest/)
 - GitHub [@oimoralest](https://github.com/oimoralest)
